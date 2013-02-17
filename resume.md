@@ -1,11 +1,8 @@
 # Contact information
 
-Miha Cancula
-
-Jana Husa 5
-
-1000 Ljubljana, Slovenia
-
+Miha Cancula  
+Jana Husa 5  
+1000 Ljubljana, Slovenia  
 miha@noughmad.eu
 
 # Education
