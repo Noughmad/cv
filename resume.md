@@ -1,6 +1,6 @@
 # Contact information
 
-Miha Cancula  
+Miha Čančula  
 Viška cesta 69C  
 1000 Ljubljana, Slovenia  
 miha@noughmad.eu
