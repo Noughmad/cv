@@ -1,15 +1,14 @@
 # Contact information
 
-Miha Cancula  
-Jana Husa 5  
+Miha Čančula  
+Viška cesta 69C  
 1000 Ljubljana, Slovenia  
 miha@noughmad.eu
 
 # Education
 
-* Received Bachelor's degree (1st Bologna cycle) in Physics, Faculty of Mathematics and Physics, University of Ljubljana in 2011
-* Currently attending 2nd cycle program of Computational physics at the same school, due to graduate and receive a Master's degree in 2013
-* Plan to continue as a PhD student at the same school, under the mentorship of prof. Slobodan Zumer
+* Received Master's degree (2nd Bologna cycle) in Physics, Faculty of Mathematics and Physics, University of Ljubljana in 2013
+* Currently a PhD student at the same school, working on computational studies of propagation of light through liquid crystal structures, under the mentorship of prof. Slobodan Zumer
 
 # Special achievements
 
@@ -30,4 +29,4 @@ Additionally, I wrote a visualization module for the data mining program [Orange
 I have two Android applications, [Personal Volume](https://play.google.com/store/apps/details?id=com.noughmad.personalvolume) and [Slashdot Comments](https://play.google.com/store/apps/details?id=com.noughmad.slashdotcomments), published on the Play Store. 
 
 As a computational physics student, I have written many numerical simulations for school projects, which are all available [online](https://github.com/Noughmad/Sola). 
-As part of my Master's thesis, I am currently modeling propagation of light through liquid crystals. 
+As part of my PhD thesis, I am currently modeling the propagation of light through liquid crystals. 
