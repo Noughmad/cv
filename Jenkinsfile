@@ -8,7 +8,7 @@ node {
 	).trim()
 
 	stage('Test') {
-		echo "Running on branch ${env.BRANCH_NAME}"
+		echo "Running on branch [${env.BRANCH_NAME}] => [${CV_BRANCH}]"
 	}
 
 	stage('Build') {
@@ -18,6 +18,10 @@ node {
 	if ("${CV_BRANCH}" == "master") {
         stage('Build Slo') {
             sh 'pdflatex cv_slo.tex'
+        }
+    } else {
+        stage('Echo non-master') {
+            echo "Running on non-master branch [${CV_BRANCH}]"
         }
     }
 }
