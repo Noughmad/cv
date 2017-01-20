@@ -15,7 +15,7 @@ node {
 		sh 'pdflatex cv.tex'
 	}
 
-	if (${CV_BRANCH} == "master") {
+	if ("${CV_BRANCH}" == "master") {
         stage('Build Slo') {
             sh 'pdflatex cv_slo.tex'
         }
